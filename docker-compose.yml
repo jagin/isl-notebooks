@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  isl-notebook:
+      build: .
+      volumes:
+        - ./notebooks:/home/jovyan/work/notebooks
+        - ./data:/home/jovyan/work/data
+        - ./images:/home/jovyan/work/images
+        - ./output:/home/jovyan/work/output
+      ports:
+        - 8888:8888
+      container_name: isl-notebook
