@@ -49,6 +49,8 @@ bash -c clear && docker exec -it isl-notebook sh
 
 - [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by [Stanford University](http://www.stanford.edu/)
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) by [Data School](http://www.dataschool.io)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview)
+- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/learn/v4/overview)
 
 ### Credits
 
