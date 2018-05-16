@@ -11,7 +11,7 @@ It's a learning playground for the book exercises including codes from other rep
     2.3 Lab - Introduction to [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/2%20Statistical%20Learning/2.3%20Lab%20-%20Introduction%20to%20R.ipynb)][[[Python](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/Python/2%20Statistical%20Learning/2.3%20Lab%20-%20Introduction%20to%20Python.ipynb)]  
     2.4 Exercises - [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/2%20Statistical%20Learning/2.4%20Exercises.ipynb)]  
 3. Linear Regresion  
-    3.6 Lab - Linear Regression [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/3%20Linear%20Regression/3.6%20Lab%20-%20Linear%20Regression.ipynb)]  
+    3.6 Lab - Linear Regression [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/3%20Linear%20Regression/3.6%20Lab%20-%20Linear%20Regression.ipynb)][[Python](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/Python/3%20Linear%20Regression/3.6%20Lab%20-%20Linear%20Regression.ipynb)]  
 
 ## Running Jupyter
 
@@ -59,4 +59,5 @@ bash -c clear && docker exec -it isl-notebook sh
 - [IntroStatLearning](https://github.com/ppaquay/IntroStatLearning)
 - [ISL-python](https://github.com/emredjan/ISL-python)
 - [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+- [ISLR-with-Python](https://github.com/hyunblee/ISLR-with-Python)
 - [stat-learning](https://github.com/asadoughi/stat-learning)
