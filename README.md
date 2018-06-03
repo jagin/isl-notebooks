@@ -3,7 +3,7 @@ This repository contains R and Python notebooks code for [An Introduction to Sta
 
 <img src='http://www-bcf.usc.edu/%7Egareth/ISL/ISL%20Cover%202.jpg' width=20%>
 
-It's a learning playground for the book exercises including codes from other repositories (see [Credits](#credits)) in the form of dockerized Jupyter notebooks so it is easier to quickly run and experiment with.
+It's a learning playground for the book exercises including, merging and tweaking the codes from other repositories (see [Credits](#credits)) in the form of dockerized Jupyter notebooks so it is easier to quickly run and experiment with.
 
 ## Notebooks
 
@@ -12,6 +12,7 @@ It's a learning playground for the book exercises including codes from other rep
     2.4 Exercises - [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/2%20Statistical%20Learning/2.4%20Exercises.ipynb)]  
 3. Linear Regresion  
     3.6 Lab - Linear Regression [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/3%20Linear%20Regression/3.6%20Lab%20-%20Linear%20Regression.ipynb)][[Python](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/Python/3%20Linear%20Regression/3.6%20Lab%20-%20Linear%20Regression.ipynb)]  
+    3.7 Exercises - [[R](http://nbviewer.jupyter.org/github/jagin/isl-notebooks/blob/master/notebooks/R/3%20Linear%20Regression/3.7%20Exercises.ipynb)]  
 
 ## Running Jupyter
 
@@ -45,7 +46,7 @@ bash -c clear && docker exec -it isl-notebook sh
 ### References
 
 - G. James, D. Witten, T. Hastie, R. Tibshirani, [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/%7Egareth/ISL/), Springer Science+Business Media, 2013
-- Hastie, T., Tibshirani, R., Friedman, J. (2009). [The Elements of Statistical Learning](http://statweb.stanford.edu/%7tibs/ElemStatLearn/), Second Edition, Springer Science+Business Media, 2009
+- T. Hastie, R. Tibshirani, J. Friedman, [The Elements of Statistical Learning](https://web.stanford.edu/%7Ehastie/ElemStatLearn/), Second Edition, Springer Science+Business Media, 2009
 
 ### Resoures
 
